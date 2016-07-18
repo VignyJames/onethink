@@ -36,3 +36,5 @@ define ( '__ROOT__', '/onethink/' );
  * ThinkPHP亦可移动到WEB以外的目录
  */
 require __DIR__ . '/thinkphp/start.php';
+
+//demo
